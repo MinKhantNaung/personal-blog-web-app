@@ -3,6 +3,7 @@
 
 This web is for posting personal posts.
 
+- Need Internet!!!
 - Account with status (admin) can go to admin-dashboard.
 - Admin can manage CRUD posts, his skills, projects, students count and category.
 - Admin can also manage to show or not show comments.
